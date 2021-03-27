@@ -1,0 +1,28 @@
+geolocation_state,State,Capital,Region,Region
+AC,Acre,Rio Branco,N,North
+AL,Alagoas,Maceió,NE,NorthEast
+AP,Amapá,Macapá,N,North
+AM,Amazonas,Manaus,N,North
+BA,Bahia,Salvador,NE,NorthEast
+CE,Ceará,Fortaleza,NE,NorthEast
+DF,Distrito Federal,Brasília,CO,CenterWest
+ES,Espírito Santo,Vitória,SD,SouthEast
+GO,Goiás,Goiânia,CO,CenterWest
+MA,Maranhão,São Luís,NE,NorthEast
+MT,Mato Grosso,Cuiabá,CO,CenterWest
+MS,Mato Grosso do Sul,Campo Grande,CO,CenterWest
+MG,Minas Gerais,Belo Horizonte,SD,SouthEast
+PA,Pará,Belém,N,North
+PB,Paraíba,João Pessoa,NE,NorthEast
+PR,Paraná,Curitiba,S,South
+PE,Pernambuco,Recife,NE,NorthEast
+PI,Piauí,Teresina,NE,NorthEast
+RJ,Rio de Janeiro,Rio de Janeiro,SD,SouthEast
+RN,Rio Grande do Norte,Natal,NE,NorthEast
+RS,Rio Grande do Sul,Porto Alegre,S,South
+RO,Rondônia,Porto Velho,N,North
+RR,Roraima,Boa Vista,N,North
+SC,Santa Catarina,Florianópolis,S,South
+SP,São Paulo,São Paulo,SD,SouthEast
+SE,Sergipe,Aracaju,NE,NorthEast
+TO,Tocantins,Palmas,N,North
