@@ -46,14 +46,14 @@ Your lead consultant rather than reject this proposal, is determined to make a c
 - Time Series Methodology
 
 ### Tasks
-- Create a Power BI dashboard 
-. Create a database system  for the dashboard
 - using time series methods predict  order level for each seller for 
   - the next day
   - the next 7-days 
 - Using machine Learning  predict the order level and order value per seller for 
   - the next day
   - the next 7-days 
+- Create a database system  for the dashboard
+- Create a Power BI dashboard (to answer the questions raised by the Team Lead)
 - Embed your machine learning model in the PowerBI dashboard
 
 ### Deliverables
