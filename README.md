@@ -4,7 +4,7 @@ Sellers' Reward System Management Dashboard and Performance Prediction System fo
 ## Brief
 <strong>Zimla</strong> is an ecommerce company that offers a marketplace for sellers and buyers.  Sellers sell their products online, while buyers(customers) make purchases and have their orders delivered to them. Being a marketplace, to remain profitable, <strong>Zimla</strong> requires that its sellers be top notch and consistently exceed customers expectation. In recent months, its  call centre has  been receiving customers complains around the delivery of their orders. 
 
-The CEO would like a comprehensive approach to addressing this challenge hence has recommended that a Sellers' Reward System Management dashboard be created.  He would like  to effectively manage sellers can in real time be effectively managed and monitored. He expects that this significantly improve customers' reviews and result in increased revenue this  year.
+**The CEO would like a comprehensive approach to addressing this challenge hence has recommended that a Sellers' Reward System Management dashboard be created.  He would like  to effectively manage sellers  in real time. He expects that this would  significantly improve customers' reviews and results in increased revenue this  year.
 
 You are part of a data science consulting start-up that  has been  asked to do a POC to <strong>Zimla's</strong> management team. The outcome of this would determine if your organization would be contracted to implement  the solution for <strong>Zimla</strong>. 
 
